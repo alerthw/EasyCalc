@@ -4,4 +4,4 @@ Second project on WPF. Done with a one-day time constraint, so bugs and shortcom
 Installation:
 Extract all files into any folder and launch EasyCalc.exe.
 
-<video src='video.mp4'/>
+<video src='https://github.com/alerthw/EasyCalc/blame/9c67ce86e9d90195ddcbf2f8031f7dc1d9d9adc4/video.mp4'/>
